@@ -1,6 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+# Activate this widget? true/false
+active: true
 headless: true
 weight: 20
 
